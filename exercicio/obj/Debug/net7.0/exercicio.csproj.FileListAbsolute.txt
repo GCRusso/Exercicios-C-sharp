@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\exercicio\bin\Debug\net7.0\exercicio.exe
+C:\Users\T-Gamer\Desktop\exercicio\bin\Debug\net7.0\exercicio.deps.json
+C:\Users\T-Gamer\Desktop\exercicio\bin\Debug\net7.0\exercicio.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\exercicio\bin\Debug\net7.0\exercicio.dll
+C:\Users\T-Gamer\Desktop\exercicio\bin\Debug\net7.0\exercicio.pdb
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.dll
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\refint\exercicio.dll
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.pdb
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\exercicio.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\exercicio\obj\Debug\net7.0\ref\exercicio.dll
