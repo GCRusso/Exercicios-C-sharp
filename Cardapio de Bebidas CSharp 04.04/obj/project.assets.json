@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Nova pasta\\Nova pasta.csproj",
+      "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Cardapio de Bebidas CSharp 04.04\\Nova pasta.csproj",
       "projectName": "Nova pasta",
-      "projectPath": "C:\\Users\\23655858841\\Desktop\\Nova pasta\\Nova pasta.csproj",
+      "projectPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Cardapio de Bebidas CSharp 04.04\\Nova pasta.csproj",
       "packagesPath": "C:\\Users\\23655858841\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\23655858841\\Desktop\\Nova pasta\\obj\\",
+      "outputPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Cardapio de Bebidas CSharp 04.04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\23655858841\\AppData\\Roaming\\NuGet\\NuGet.Config",

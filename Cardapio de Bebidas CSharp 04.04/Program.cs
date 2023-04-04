@@ -44,7 +44,7 @@ switch (escolha)
 }
 //foi utilizado o ! para que a escolha 5 e a 6 nao de a opcao do gelo para o usuario. 
 //funciona se voce NAO !=negacao escolher a opcao 5 e 6 ele faz a pergunta do gelo
-if(!(escolha == 5 || escolha == 6)){
+if(!(escolha == 5 || escolha == 6 || escolha >= 6)){
 
 Console.WriteLine($"Deseja adicionar gelo a sua bebida?: ");
 string gelo = (Console.ReadLine().ToLower());
