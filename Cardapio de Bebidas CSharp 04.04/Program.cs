@@ -20,16 +20,16 @@ byte escolha = byte.Parse(Console.ReadLine());
 switch (escolha)
 {
     case 1:
-        Console.WriteLine($"Voce escolheu Coca-cola! Deseja adicionar gelo a sua bebida?: ");
+        Console.WriteLine($"Voce escolheu Coca-cola! ");
         break;
     case 2:
-        Console.WriteLine($"Voce escolheu Fanta Laranja! Deseja adicionar gelo a sua bebida?: ");
+        Console.WriteLine($"Voce escolheu Fanta Laranja! ");
         break;
     case 3:
-        Console.WriteLine($"Voce escolheu Sprite! Deseja adicionar gelo a sua bebida?: ");
+        Console.WriteLine($"Voce escolheu Sprite! ");
         break;
     case 4:
-        Console.WriteLine($"Voce escolheu Suco de Laranja! Deseja adicionar gelo a sua bebida?: ");
+        Console.WriteLine($"Voce escolheu Suco de Laranja! ");
         break;
     case 5:
         Console.WriteLine($"Voce escolheu Chocolate Quente!: ");
