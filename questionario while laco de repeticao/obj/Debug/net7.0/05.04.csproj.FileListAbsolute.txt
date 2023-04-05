@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\05.04\bin\Debug\net7.0\05.04.exe
+C:\Users\23655858841\Desktop\05.04\bin\Debug\net7.0\05.04.deps.json
+C:\Users\23655858841\Desktop\05.04\bin\Debug\net7.0\05.04.runtimeconfig.json
+C:\Users\23655858841\Desktop\05.04\bin\Debug\net7.0\05.04.dll
+C:\Users\23655858841\Desktop\05.04\bin\Debug\net7.0\05.04.pdb
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.dll
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\refint\05.04.dll
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.pdb
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\05.04.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\05.04\obj\Debug\net7.0\ref\05.04.dll
