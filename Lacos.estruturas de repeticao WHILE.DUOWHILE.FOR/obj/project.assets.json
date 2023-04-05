@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\questionario while laco de repeticao\\05.04.csproj",
-      "projectName": "05.04",
-      "projectPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\questionario while laco de repeticao\\05.04.csproj",
+      "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Lacos.estruturas de repeticao WHILE.DUOWHILE.FOR\\Nova pasta.csproj",
+      "projectName": "Nova pasta",
+      "projectPath": "C:\\Users\\23655858841\\Desktop\\Lacos.estruturas de repeticao WHILE.DUOWHILE.FOR\\Nova pasta.csproj",
       "packagesPath": "C:\\Users\\23655858841\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\questionario while laco de repeticao\\obj\\",
+      "outputPath": "C:\\Users\\23655858841\\Desktop\\Lacos.estruturas de repeticao WHILE.DUOWHILE.FOR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\23655858841\\AppData\\Roaming\\NuGet\\NuGet.Config",
