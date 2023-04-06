@@ -88,7 +88,6 @@ switch (operacao)
 
     default:
     Console.WriteLine($"a operacao informada nao e suportada em nossa calculadora! :( ");
-    
         break;
 }
 

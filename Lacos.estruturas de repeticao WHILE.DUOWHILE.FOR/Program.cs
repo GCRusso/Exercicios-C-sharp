@@ -1,14 +1,14 @@
 ﻿//************************** WHILE ***********************************
 
-/*esse codigo ira se repetir ate o ASD ser igual a 10, entao criara 10 linhas.
+esse codigo ira se repetir ate o ASD ser igual a 10, entao criara 10 linhas.
 int asd = 1;
 while (asd <= 10)
 {
     Console.WriteLine($"{asd}");
     asd++;
-}*/
+}
 
-/*o codigo ira se repetir ate acertar quantos anos tem o pericles, ate se tornar TRUE a idade.
+//o codigo ira se repetir ate acertar quantos anos tem o pericles, ate se tornar TRUE a idade.
 bool idadeCerta = false;
 
 while (idadeCerta == false)
@@ -22,19 +22,18 @@ while (idadeCerta == false)
         Console.WriteLine($"voce acertou a idade do Pericles!");
     }
 
-
-}*/
+}
 
 
 //um programa que receba o nome do usuario e a senha ok
 //a senha deve ter 6 caracteres ex: "admin@" ok 
 //validar a senha
 //enquanto a senha nao estiver com regra pedida, preciso que 
-    //o programa nao se encerra e que solicite que seja digitado
-    //uma senha no padrao requerido
+//o programa nao se encerra e que solicite que seja digitado
+//uma senha no padrao requerido
 //caso a senha informada esteja com 6 caracteres, exiba uma mensagem de ok
 
-/*Console.WriteLine($"digite o seu nome: ");
+Console.WriteLine($"digite o seu nome: ");
 string nome = Console.ReadLine();
 
 Console.WriteLine($"digite a sua senha (tem que ter 6 caracteres)");
@@ -46,14 +45,14 @@ while (senha.Length != 6)
     senha = Console.ReadLine();     
 }
 Console.WriteLine($"Usuário e senha recebidas com sucesso!");
-*/
+
 
 
 
 
 
 //*********************** DUO WHILE ********************
-/*int i = 0;
+int i = 0;
 do{
     Console.WriteLine(i); //exibe o valor de i = 6
     i++; //incrementa mais 1
@@ -61,11 +60,11 @@ do{
 
 }
 
-while(i < 5);*/
+while(i < 5);
 
 
 
-/*//o codigo ira se repetir ate acertar quantos anos tem o pericles, ate se tornar TRUE a idade.
+//o codigo ira se repetir ate acertar quantos anos tem o pericles, ate se tornar TRUE a idade.
 int idadeCerta = 0;
 
 do{
@@ -75,7 +74,7 @@ do{
 }
 while (idadeCerta != 53);
 
-Console.WriteLine($"Voce acertou {idadeCerta}");*/
+Console.WriteLine($"Voce acertou {idadeCerta}");
 
 
 //********************************* FOR *********************************

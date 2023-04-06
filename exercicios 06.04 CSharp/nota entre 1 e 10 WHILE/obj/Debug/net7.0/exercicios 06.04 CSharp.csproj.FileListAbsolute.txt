@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\bin\Debug\net7.0\exercicios 06.04 CSharp.exe
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\bin\Debug\net7.0\exercicios 06.04 CSharp.deps.json
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\bin\Debug\net7.0\exercicios 06.04 CSharp.runtimeconfig.json
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\bin\Debug\net7.0\exercicios 06.04 CSharp.dll
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\bin\Debug\net7.0\exercicios 06.04 CSharp.pdb
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.dll
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\refint\exercicios 06.04 CSharp.dll
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.pdb
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\exercicios 06.04 CSharp.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\exercicios 06.04 CSharp\obj\Debug\net7.0\ref\exercicios 06.04 CSharp.dll
