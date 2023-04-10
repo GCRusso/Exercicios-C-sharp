@@ -21,7 +21,10 @@ os homens analisados.
 //coletar as informacoes dos clientes os SIM E NAO
 //
 int i = 0, tl = 10;
-int mulher = 0, homem = 0, sim = 0, nao = 0, mulhersim = 0, homemTotal=0, porcentagem=0;
+int mulher = 0, homem = 0, sim = 0, nao = 0, mulhersim = 0, homemTotal= 0, homemNao = 0;
+
+
+int total = homem + mulher;
 
 Console.WriteLine($@"
 ***********Pesquisa do novo anti-transpirante SUVACO***************
@@ -30,7 +33,10 @@ Console.WriteLine($@"
         por favor nos ajude com a pesquisa a baixo!
 -------------------------------------------------------------------
 ");
-
+/*Estrutura do FOR
+var i = 1; inicializador
+i <= 3; Condicional
+i++; incremento */
 for (i = 1; i <= tl; i++)
 {
     Console.WriteLine(@$"
@@ -110,17 +116,20 @@ Digite o numero respectivo da sua opniao.
     }
             if (sexo == 2 && opniao == 1){
                 mulhersim++;
-                
             }
 
             if(sexo == 1){
                 homemTotal++;
-                
             }
 
-    
+            if(sexo == 1 && opniao == 2)
+            {
+                homemNao++;
+            }
+
 
 }
+    double porcentagem = Math.Round(((double)homemNao/(double)homemTotal)* 100,2);
 
 //Quantidade de respostas SIM E NAO
     Console.ForegroundColor = ConsoleColor.Green;
@@ -135,17 +144,16 @@ Digite o numero respectivo da sua opniao.
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.WriteLine($"Quantidade de mulheres que responderam POSITIVAMENTE: {mulhersim}");
     Console.ResetColor();
+//Quantidade total de homens que participou da pesquisa
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine($"Total de homens que participou da pesquisa: {homemTotal}");
+    Console.ResetColor();
 
-Console.WriteLine($"Total de homens que participou da pesquisa: {homemTotal}");
+// Porcentagem dos homens que falaram que nao gostaram do produto
+    Console.ForegroundColor = ConsoleColor.Magenta;
+    Console.WriteLine($"A porcentagem dos homens que responderam NEGATIVAMENTE: %{porcentagem}");
+    Console.ResetColor();
 
-Console.WriteLine($"%{porcentagem}");
-
-
-
-
-
-// Console.WriteLine($"Quantidade de pessoas que ja participou de nossa pesquisa: {i}");
-// Console.WriteLine($"Ate o momento nossa pesquisa teve o voto de {mulher} mulheres e {homem} homens.");
 
 
 

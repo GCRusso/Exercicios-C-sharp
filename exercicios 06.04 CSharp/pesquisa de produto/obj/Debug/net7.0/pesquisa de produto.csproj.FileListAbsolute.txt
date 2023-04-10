@@ -28,3 +28,18 @@ C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\exercicios 06.04 CSharp\pesquisa de 
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.pdb
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.genruntimeconfig.cache
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\ref\pesquisa de produto.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\bin\Debug\net7.0\pesquisa de produto.exe
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\bin\Debug\net7.0\pesquisa de produto.deps.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\bin\Debug\net7.0\pesquisa de produto.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\bin\Debug\net7.0\pesquisa de produto.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\bin\Debug\net7.0\pesquisa de produto.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\refint\pesquisa de produto.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\pesquisa de produto.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\exercicios 06.04 CSharp\pesquisa de produto\obj\Debug\net7.0\ref\pesquisa de produto.dll
