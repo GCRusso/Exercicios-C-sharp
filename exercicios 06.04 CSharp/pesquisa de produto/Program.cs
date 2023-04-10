@@ -21,7 +21,7 @@ os homens analisados.
 //coletar as informacoes dos clientes os SIM E NAO
 //
 int i = 0, tl = 10;
-int mulher = 0, homem = 0, sim = 0, nao = 0;
+int mulher = 0, homem = 0, sim = 0, nao = 0, mulhersim = 0, homemTotal=0, porcentagem=0;
 
 Console.WriteLine($@"
 ***********Pesquisa do novo anti-transpirante SUVACO***************
@@ -106,9 +106,43 @@ Digite o numero respectivo da sua opniao.
             while (opniao != 1 && opniao != 2);
 
             break;
+            
     }
+            if (sexo == 2 && opniao == 1){
+                mulhersim++;
+                
+            }
+
+            if(sexo == 1){
+                homemTotal++;
+                
+            }
+
+    
 
 }
+
+//Quantidade de respostas SIM E NAO
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine($"Quantidade de respostas POSITIVAS: {sim}");
+    Console.ResetColor();
+    
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine($"Quantidade de respostas NEGATIVAS: {nao}");
+    Console.ResetColor();
+    
+//Quantidade de mulheres que responderam SIM
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.WriteLine($"Quantidade de mulheres que responderam POSITIVAMENTE: {mulhersim}");
+    Console.ResetColor();
+
+Console.WriteLine($"Total de homens que participou da pesquisa: {homemTotal}");
+
+Console.WriteLine($"%{porcentagem}");
+
+
+
+
 
 // Console.WriteLine($"Quantidade de pessoas que ja participou de nossa pesquisa: {i}");
 // Console.WriteLine($"Ate o momento nossa pesquisa teve o voto de {mulher} mulheres e {homem} homens.");
