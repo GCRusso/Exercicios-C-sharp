@@ -129,6 +129,7 @@ Digite o numero respectivo da sua opniao.
 
 
 }
+//Porcentagem de homens que falaram nao entre todos os homens que participou da pesquisa
     double porcentagem = Math.Round(((double)homemNao/(double)homemTotal)* 100,2);
 
 //Quantidade de respostas SIM E NAO
