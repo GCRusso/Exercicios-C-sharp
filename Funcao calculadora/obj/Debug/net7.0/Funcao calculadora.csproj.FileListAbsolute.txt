@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Funcao calculadora\bin\Debug\net7.0\Funcao calculadora.exe
+C:\Users\23655858841\Desktop\Funcao calculadora\bin\Debug\net7.0\Funcao calculadora.deps.json
+C:\Users\23655858841\Desktop\Funcao calculadora\bin\Debug\net7.0\Funcao calculadora.runtimeconfig.json
+C:\Users\23655858841\Desktop\Funcao calculadora\bin\Debug\net7.0\Funcao calculadora.dll
+C:\Users\23655858841\Desktop\Funcao calculadora\bin\Debug\net7.0\Funcao calculadora.pdb
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.dll
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\refint\Funcao calculadora.dll
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.pdb
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\Funcao calculadora.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Funcao calculadora\obj\Debug\net7.0\ref\Funcao calculadora.dll

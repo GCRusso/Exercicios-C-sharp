@@ -1,0 +1,30 @@
+C:\Users\23655858841\Desktop\Exercicios Array\bin\Debug\net7.0\Exercicios Array.exe
+C:\Users\23655858841\Desktop\Exercicios Array\bin\Debug\net7.0\Exercicios Array.deps.json
+C:\Users\23655858841\Desktop\Exercicios Array\bin\Debug\net7.0\Exercicios Array.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios Array\bin\Debug\net7.0\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\bin\Debug\net7.0\Exercicios Array.pdb
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\refint\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.pdb
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\Exercicios Array.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios Array\obj\Debug\net7.0\ref\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\bin\Debug\net7.0\Exercicios Array.exe
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\bin\Debug\net7.0\Exercicios Array.deps.json
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\bin\Debug\net7.0\Exercicios Array.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\bin\Debug\net7.0\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\bin\Debug\net7.0\Exercicios Array.pdb
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\refint\Exercicios Array.dll
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.pdb
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\Exercicios Array.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios Array\Dobro do numero\obj\Debug\net7.0\ref\Exercicios Array.dll
