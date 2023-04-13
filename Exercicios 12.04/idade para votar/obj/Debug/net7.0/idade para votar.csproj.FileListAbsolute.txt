@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\bin\Debug\net7.0\idade para votar.exe
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\bin\Debug\net7.0\idade para votar.deps.json
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\bin\Debug\net7.0\idade para votar.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\bin\Debug\net7.0\idade para votar.dll
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\bin\Debug\net7.0\idade para votar.pdb
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.dll
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\refint\idade para votar.dll
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.pdb
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\idade para votar.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\idade para votar\obj\Debug\net7.0\ref\idade para votar.dll

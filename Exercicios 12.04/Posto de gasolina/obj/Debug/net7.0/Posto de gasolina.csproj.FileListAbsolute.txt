@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\bin\Debug\net7.0\Posto de gasolina.exe
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\bin\Debug\net7.0\Posto de gasolina.deps.json
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\bin\Debug\net7.0\Posto de gasolina.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\bin\Debug\net7.0\Posto de gasolina.dll
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\bin\Debug\net7.0\Posto de gasolina.pdb
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.dll
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\refint\Posto de gasolina.dll
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.pdb
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\Posto de gasolina.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios 12.04\Posto de gasolina\obj\Debug\net7.0\ref\Posto de gasolina.dll

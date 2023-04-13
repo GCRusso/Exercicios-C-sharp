@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Funcoes c# 12.04\\Funcoes c# 12.04.csproj",
+      "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Funcoes c# 12.04\\Funcoes c# 12.04.csproj",
       "projectName": "Funcoes c# 12.04",
-      "projectPath": "C:\\Users\\23655858841\\Desktop\\Funcoes c# 12.04\\Funcoes c# 12.04.csproj",
+      "projectPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Funcoes c# 12.04\\Funcoes c# 12.04.csproj",
       "packagesPath": "C:\\Users\\23655858841\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\23655858841\\Desktop\\Funcoes c# 12.04\\obj\\",
+      "outputPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Funcoes c# 12.04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\23655858841\\AppData\\Roaming\\NuGet\\NuGet.Config",
