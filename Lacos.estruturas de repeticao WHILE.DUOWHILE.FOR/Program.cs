@@ -39,7 +39,7 @@ string nome = Console.ReadLine();
 Console.WriteLine($"digite a sua senha (tem que ter 6 caracteres)");
 string senha = Console.ReadLine();
 
-while (senha.Length != 6)
+while (senha != "123456")
 {
     Console.WriteLine($"Digite uma senha no padrão requerido (com 6 caracteres): ");
     senha = Console.ReadLine();     

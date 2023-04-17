@@ -37,7 +37,6 @@ foreach (var item in carros2)
 
 
 
-
 //Utilizando FOR para repetir o nosso array
 string[] carros3 = new string[3];
 // colocado o I < 3 pois menor q 3 e o 2 e o numero 0 sera contado no array 

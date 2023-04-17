@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Projeto 17.04\bin\Debug\net7.0\Projeto 17.04.exe
+C:\Users\23655858841\Desktop\Projeto 17.04\bin\Debug\net7.0\Projeto 17.04.deps.json
+C:\Users\23655858841\Desktop\Projeto 17.04\bin\Debug\net7.0\Projeto 17.04.runtimeconfig.json
+C:\Users\23655858841\Desktop\Projeto 17.04\bin\Debug\net7.0\Projeto 17.04.dll
+C:\Users\23655858841\Desktop\Projeto 17.04\bin\Debug\net7.0\Projeto 17.04.pdb
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.dll
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\refint\Projeto 17.04.dll
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.pdb
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\Projeto 17.04.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Projeto 17.04\obj\Debug\net7.0\ref\Projeto 17.04.dll
