@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Exercicio 24.04\bin\Debug\net7.0\Exercicio 24.04.exe
+C:\Users\23655858841\Desktop\Exercicio 24.04\bin\Debug\net7.0\Exercicio 24.04.deps.json
+C:\Users\23655858841\Desktop\Exercicio 24.04\bin\Debug\net7.0\Exercicio 24.04.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicio 24.04\bin\Debug\net7.0\Exercicio 24.04.dll
+C:\Users\23655858841\Desktop\Exercicio 24.04\bin\Debug\net7.0\Exercicio 24.04.pdb
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.dll
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\refint\Exercicio 24.04.dll
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.pdb
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\Exercicio 24.04.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicio 24.04\obj\Debug\net7.0\ref\Exercicio 24.04.dll
