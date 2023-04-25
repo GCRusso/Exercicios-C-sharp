@@ -5,14 +5,17 @@
 //media menor ou igual a 6 = valor integral.
 //criar menu: visualizar media ou valor da mensalidade
 
-
 using Exercicio_24._04;
 
+char escolha = '0';
 Alunos a = new Alunos();
 
 a.Cadastro();
 
-Console.WriteLine(@$"
+do
+{
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine(@$"
 Seleciona a opcao que deseja realizar
 
 1- Visualizar a nota media
@@ -20,20 +23,31 @@ Seleciona a opcao que deseja realizar
 
 0- Sair
 ");
-char escolha = char.Parse(Console.ReadLine());
+    Console.ResetColor();
+    escolha = char.Parse(Console.ReadLine());
 
-switch (escolha)
-{
-    case '1':
-    Console.WriteLine($"Esta e a nota media: {a.VerMediaFinal()}");
-        break;
-    case '2':
-    Console.WriteLine($"");
-    
-        break;
-    case '0':
-        break;
-    default:
-        break;
-}
+    switch (escolha)
+    {
+        case '1':
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"Nota media do aluno: {a.VerMediaFinal()}");
+            Console.ResetColor();
+            break;
+        case '2':
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"Valor mensalidade: R${a.VerMensalidade()}");
+            Console.ResetColor();
+            break;
+        case '0':
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine($"Obrigado por utilizar nossa ferramenta!");
+            Console.ResetColor();
+            break;
+        default:
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"Opção invalida!!");
+            Console.ResetColor();
+            break;
+    }
+} while (escolha != '0');
 
