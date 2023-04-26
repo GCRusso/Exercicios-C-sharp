@@ -10,29 +10,42 @@ Envie o link do repositório como entrega desta atividade.
 
 using Exercicio_25._04___celular;
 
-Celular a = new Celular();
+Celular phone = new Celular();
 
-a.CadastroCelular();
+phone.CadastroCelular();
 
+phone.LigarCelular();
+char opcao = '0';
+do
+{
+    
 Console.WriteLine(@$"
 Funções do celular
-1- Ligar o celular
-2- Desligar o celular
+1- Fazer ligacao
+2- Enviar mensagem
 
-0- Sair
+0- Sair/Desligar
 ");
-char opcao = char.Parse(Console.ReadLine());
+opcao = char.Parse(Console.ReadLine());
 
 switch (opcao)
 {
     case '1':
+    phone.FazerLigacao();
         break;
 
     case '2':
+    phone.EnviarMensagem();
+        break;
+    case '0':
+    Console.WriteLine($"Desligando...");
         break;
 
     default:
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine($"Voce digitou um numero invalido!");
+    Console.ResetColor();
+    
         break;
 }
-
-
+} while (opcao == '1' || opcao == '2' || opcao == '4');

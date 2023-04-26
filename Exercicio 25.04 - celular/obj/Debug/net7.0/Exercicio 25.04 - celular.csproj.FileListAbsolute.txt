@@ -13,3 +13,18 @@ C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicio 25.04 - celular\obj\Debug\
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.pdb
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.genruntimeconfig.cache
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\ref\Exercicio 25.04 - celular.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\refint\Exercicio 25.04 - celular.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\bin\Debug\net7.0\Exercicio 25.04 - celular.exe
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\bin\Debug\net7.0\Exercicio 25.04 - celular.deps.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\bin\Debug\net7.0\Exercicio 25.04 - celular.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\bin\Debug\net7.0\Exercicio 25.04 - celular.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\bin\Debug\net7.0\Exercicio 25.04 - celular.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\Exercicio 25.04 - celular.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.04 - celular\obj\Debug\net7.0\ref\Exercicio 25.04 - celular.dll
