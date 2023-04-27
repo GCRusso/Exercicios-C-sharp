@@ -7,6 +7,7 @@ namespace Exercicio_25._04___celular
         //Cadastro do celular
         public void CadastroCelular()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine($"***** Bem vindo ao CadastraPhone *****");
             Console.WriteLine($"");
             Console.WriteLine($"Qual o modelo do celular?: ");
@@ -17,6 +18,7 @@ namespace Exercicio_25._04___celular
             string tamanho = Console.ReadLine();
             Console.WriteLine($"");
             Console.WriteLine($"Celular Cadastrado com sucesso!!!");
+            Console.ResetColor();
 
         }
 
@@ -27,9 +29,10 @@ namespace Exercicio_25._04___celular
         {
             do
             {
-
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($"Seu celular esta ligado? S/N: ");
                 ligado = Console.ReadLine().ToLower();
+                Console.ResetColor();
 
                 if (ligado == "s")
                 {
@@ -48,24 +51,24 @@ namespace Exercicio_25._04___celular
 
         }
         public void FazerLigacao()
-    {
-        Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine($"Chamando...");
-        Console.ResetColor();
-        
-    }
-    public void EnviarMensagem()
-    {
-        Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine($"Escreva sua mensagem: ");
-        Console.ResetColor();
-        string msg = Console.ReadLine();
-        Console.WriteLine($"");
-        Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine($"Mensagem enviada!");
-        Console.ResetColor();
-    
-    }
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Chamando...");
+            Console.ResetColor();
+
+        }
+        public void EnviarMensagem()
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"Escreva sua mensagem: ");
+            Console.ResetColor();
+            string msg = Console.ReadLine();
+            Console.WriteLine($"");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Mensagem enviada!");
+            Console.ResetColor();
+
+        }
 
     }
 }

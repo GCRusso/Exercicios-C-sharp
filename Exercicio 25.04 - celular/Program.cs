@@ -13,39 +13,41 @@ using Exercicio_25._04___celular;
 Celular phone = new Celular();
 
 phone.CadastroCelular();
-
 phone.LigarCelular();
 char opcao = '0';
 do
 {
-    
-Console.WriteLine(@$"
+    Console.ForegroundColor = ConsoleColor.Cyan;
+    Console.WriteLine(@$"
 Funções do celular
 1- Fazer ligacao
 2- Enviar mensagem
 
 0- Sair/Desligar
 ");
-opcao = char.Parse(Console.ReadLine());
-
-switch (opcao)
-{
-    case '1':
-    phone.FazerLigacao();
-        break;
-
-    case '2':
-    phone.EnviarMensagem();
-        break;
-    case '0':
-    Console.WriteLine($"Desligando...");
-        break;
-
-    default:
-    Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine($"Voce digitou um numero invalido!");
     Console.ResetColor();
-    
-        break;
-}
-} while (opcao == '1' || opcao == '2' || opcao == '4');
+
+    opcao = char.Parse(Console.ReadLine());
+
+    switch (opcao)
+    {
+        case '1':
+            phone.FazerLigacao();
+            break;
+
+        case '2':
+            phone.EnviarMensagem();
+            break;
+        case '0':
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"Desligando...");
+            Console.ResetColor();
+            break;
+
+        default:
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"Voce digitou um numero invalido!");
+            Console.ResetColor();
+            break;
+    }
+} while (opcao != '0');
