@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\bin\Debug\net7.0\POO Calculadora - exemplo professor.exe
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\bin\Debug\net7.0\POO Calculadora - exemplo professor.deps.json
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\bin\Debug\net7.0\POO Calculadora - exemplo professor.runtimeconfig.json
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\bin\Debug\net7.0\POO Calculadora - exemplo professor.dll
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\bin\Debug\net7.0\POO Calculadora - exemplo professor.pdb
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.dll
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\refint\POO Calculadora - exemplo professor.dll
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.pdb
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\POO Calculadora - exemplo professor.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\POO Calculadora - exemplo professor\obj\Debug\net7.0\ref\POO Calculadora - exemplo professor.dll
