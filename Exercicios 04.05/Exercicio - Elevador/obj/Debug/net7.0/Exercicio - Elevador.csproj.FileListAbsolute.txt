@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\bin\Debug\net7.0\Exercicio - Elevador.exe
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\bin\Debug\net7.0\Exercicio - Elevador.deps.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\bin\Debug\net7.0\Exercicio - Elevador.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\bin\Debug\net7.0\Exercicio - Elevador.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\bin\Debug\net7.0\Exercicio - Elevador.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\refint\Exercicio - Elevador.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\Exercicio - Elevador.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Elevador\obj\Debug\net7.0\ref\Exercicio - Elevador.dll
