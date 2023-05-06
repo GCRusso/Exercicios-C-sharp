@@ -8,46 +8,68 @@ a. Para começar, crie a classe "MaquinaCafe" com um atributo chamado "acucarDis
 b. Agora crie um método chamado "fazerCafe" na mesma classe. Esse método deve verificar se a quantidade de açúcar disponível na máquina é suficiente e, claro, fazer o café.
 
 c. Como o usuário não será obrigado a informar a quantidade de açúcar a ser adicionado no café, crie outro método com o nome "fazerCafe", que não recebe nenhum parâmetro. Isso é uma sobrecarga de métodos!
-
--especificar quantidade de acucar no cafe em gramas
-
--se caso nao for adicionado, adicionar uma quantidade de acucar por padrao de 10gramas
-
--atributo e uma variavel AcucarDisponivel para saber a quantidade que ainda tem de cafe
-
--metodo fazerCafe e na mesma classe verificar se a quantidade de acucar disponivel da para adocar o cafe e fazer o cafe
-
--outro metodo fazerCafe que nao recebe nenhum parametro (sobrecarga)
-
-atividade 26.04 diagrama de classes
 */
 using Exercicio___Maquina_de_Cafe;
 
 MaquinaCafe cafeteria = new MaquinaCafe();
+int acucar = 0;
 
-Console.WriteLine(@$"
-1- Cafe com açucar padrao
-2- Cafe com açucar personalizado
-0- sair
-");
-string opcao = Console.ReadLine();
+string opcao = "";
 
-switch (opcao)
+do
 {
-    case "1":
-        break;
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine(@$"
+    Cafeteira Tabajaras Plus++
 
-    case "2":
-    Console.WriteLine($"Adicione a quantidade de açucar em gramas: ");
-    int acucar = int.Parse(Console.ReadLine());
-        break;
+1- Cafe com açucar padrão (10 gramas)
+2- Cafe com açucar personalizado
+3- Açucar disponível na máquina
 
-    case "0":
-    Console.WriteLine($"Pedido cancelado!");
-        break;
+0- Cancelar pedido
+");
+    Console.ResetColor();
+    opcao = Console.ReadLine();
 
-    default:
-        Console.WriteLine($"opcao invalida!");
-        break;
-}
+    switch (opcao)
+    {
+        case "1":
+            cafeteria.FazerCafe();
+            break;
+
+        case "2":
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine($"Adicione a quantidade de açucar em gramas: ");
+            Console.ResetColor();
+            bool confirmacaoAcucar = int.TryParse(Console.ReadLine(), out acucar);
+            if (confirmacaoAcucar == false)
+            {
+                cafeteria.FazerCafe();
+            }
+
+            else
+            {
+                cafeteria.FazerCafe(acucar);
+            }
+            break;
+
+        case "3":
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"Temos {cafeteria.acucarDisponivel} gramas de açucar disponível");
+            Console.ResetColor();
+            break;
+
+        case "0":
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"Pedido cancelado!");
+            Console.ResetColor();
+            break;
+
+        default:
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"Opção Inválida!");
+            Console.ResetColor();
+            break;
+    }
+} while (opcao != "0");
 

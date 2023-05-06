@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\bin\Debug\net7.0\Exercicio - Jogador.exe
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\bin\Debug\net7.0\Exercicio - Jogador.deps.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\bin\Debug\net7.0\Exercicio - Jogador.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\bin\Debug\net7.0\Exercicio - Jogador.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\bin\Debug\net7.0\Exercicio - Jogador.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\refint\Exercicio - Jogador.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\Exercicio - Jogador.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Jogador\obj\Debug\net7.0\ref\Exercicio - Jogador.dll
