@@ -25,7 +25,6 @@ Qual a posição do jogador?
 1- Atacante
 2- Meio Campo
 3- Zagueiro
-4- Mostrar Dados do jogador cadastrado
 
 0- Sair
 ");
@@ -50,48 +49,6 @@ Qual a posição do jogador?
             Console.WriteLine($"Você selecionou como posição de: Zagueiro");
             defesa.CadastroJogador();
             defesa.AposentadoriaZagueiro();
-            break;
-
-        case "4":
-            if (posicao == "1")
-            {
-                Console.WriteLine(@$"
-    Dados do Jogador Cadastrado
-
-    Nome: {ataque.Nome}
-    Ano de nascimento: {ataque.AnoNascimento}
-    Nacionalidade: {ataque.Nacionalidade}
-    Altura: {ataque.Altura}
-    Peso: {ataque.Peso}
-    ");
-            }
-
-            if (posicao == "2")
-            {
-                Console.WriteLine(@$"
-    Dados do Jogador Cadastrado
-
-    Nome: {meioCampo.Nome}
-    Ano de nascimento: {meioCampo.AnoNascimento}
-    Nacionalidade: {meioCampo.Nacionalidade}
-    Altura: {meioCampo.Altura}
-    Peso: {meioCampo.Peso}
-    ");
-            }
-
-            if (posicao == "3")
-            {
-                Console.WriteLine(@$"
-    Dados do Jogador Cadastrado
-
-    Nome: {defesa.Nome}
-    Ano de nascimento: {defesa.AnoNascimento}
-    Nacionalidade: {defesa.Nacionalidade}
-    Altura: {defesa.Altura}
-    Peso: {defesa.Peso}
-    ");
-            }
-
             break;
 
         case "0":

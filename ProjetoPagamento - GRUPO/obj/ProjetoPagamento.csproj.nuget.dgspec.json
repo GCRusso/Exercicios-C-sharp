@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Exercicios 04.05\\Exercicio - Jogador\\Exercicio - Jogador.csproj": {}
+    "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\ProjetoPagamento - GRUPO\\ProjetoPagamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Exercicios 04.05\\Exercicio - Jogador\\Exercicio - Jogador.csproj": {
+    "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\ProjetoPagamento - GRUPO\\ProjetoPagamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Exercicios 04.05\\Exercicio - Jogador\\Exercicio - Jogador.csproj",
-        "projectName": "Exercicio - Jogador",
-        "projectPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Exercicios 04.05\\Exercicio - Jogador\\Exercicio - Jogador.csproj",
+        "projectUniqueName": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\ProjetoPagamento - GRUPO\\ProjetoPagamento.csproj",
+        "projectName": "ProjetoPagamento",
+        "projectPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\ProjetoPagamento - GRUPO\\ProjetoPagamento.csproj",
         "packagesPath": "C:\\Users\\23655858841\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\Exercicios 04.05\\Exercicio - Jogador\\obj\\",
+        "outputPath": "C:\\Users\\23655858841\\Desktop\\Exercicios C Sharp\\ProjetoPagamento - GRUPO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23655858841\\AppData\\Roaming\\NuGet\\NuGet.Config",
