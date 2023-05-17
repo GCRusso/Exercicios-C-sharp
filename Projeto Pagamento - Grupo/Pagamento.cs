@@ -11,7 +11,7 @@ namespace ProjetoPagamento
 
         //Propriedades
 
-        public float valor;
+        public float valor; 
 
         public DateTime date1 { get; private set; } = DateTime.Now;
 

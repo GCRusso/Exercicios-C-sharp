@@ -1,0 +1,15 @@
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Projeto Login 16.05\bin\Debug\net7.0\Projeto Login 16.05.exe
+C:\Users\23655858841\Desktop\Projeto Login 16.05\bin\Debug\net7.0\Projeto Login 16.05.deps.json
+C:\Users\23655858841\Desktop\Projeto Login 16.05\bin\Debug\net7.0\Projeto Login 16.05.runtimeconfig.json
+C:\Users\23655858841\Desktop\Projeto Login 16.05\bin\Debug\net7.0\Projeto Login 16.05.dll
+C:\Users\23655858841\Desktop\Projeto Login 16.05\bin\Debug\net7.0\Projeto Login 16.05.pdb
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.dll
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\refint\Projeto Login 16.05.dll
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.pdb
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\Projeto Login 16.05.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Projeto Login 16.05\obj\Debug\net7.0\ref\Projeto Login 16.05.dll
