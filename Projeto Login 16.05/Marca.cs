@@ -18,17 +18,31 @@ namespace Projeto_Login_16._05
             DataMarca = _datamarca;
         }
 
-        public string CadastrarMarca()
+        public Marca CadastrarMarca()
         {
+            Marca marca = new Marca();
             Console.WriteLine($"Qual o código da marca?: ");
             int codigoMarca = int.Parse(Console.ReadLine());
             Console.WriteLine($"Qual o nome da marca?: ");
             string nomeMarca = Console.ReadLine();
+            marca.Nome = nomeMarca;
+            marca.Codigo = codigoMarca;
+
 
             listaDeMarcas.Add(new Marca(codigoMarca, nomeMarca, DataMarca));
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(@$"
+            Marca Cadastrada com sucesso
 
-            Console.WriteLine($"Código: {codigoMarca} Nome: {nomeMarca} Data: {DataMarca}");
-            return "Marca Cadastrada Com Sucesso! ";
+            Código: {codigoMarca} 
+            Nome: {nomeMarca} 
+            Data: {DataMarca}
+            
+            --------------------------------------------------------
+            ");
+            Console.ResetColor();
+            return marca;
+
         }
 
         public void ListarMarca()
@@ -37,19 +51,20 @@ namespace Projeto_Login_16._05
             {
                 Console.WriteLine(@$"
     Código: {item.Codigo} 
-    Nome: {item.Nome} 
+    Nome: {item.Nome}
     Data: {DataMarca}");
             }
         }
 
-        public string DeletarMarca()
+        public void DeletarMarca()
         {
             Console.WriteLine($"Qual o codigo da marca que deseja excluir?: ");
             int excluirMarca = int.Parse(Console.ReadLine());
             Marca MarcaExcluida = listaDeMarcas.Find(z => z.Codigo == excluirMarca);
             int index = listaDeMarcas.IndexOf(MarcaExcluida);
             listaDeMarcas.RemoveAt(index);
-            return "Marca deletada!";
+            Console.WriteLine($"Marca Deletada!");
+
         }
     }
 }

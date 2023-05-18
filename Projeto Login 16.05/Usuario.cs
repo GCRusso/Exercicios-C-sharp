@@ -8,38 +8,36 @@ namespace Projeto_Login_16._05
         public string Senha { get; private set; }
         public DateTime DataCadastroUsuario { get; private set; } = DateTime.Now;
 
-        //Construtor aqui vai todos os metodos que serao utilizado para o login
+        
         public Usuario()
         {
             Cadastrar();
         }
         public void Cadastrar()
         {
-            Console.WriteLine($"Cadastrado de novo usuário");
+            Console.WriteLine($"Cadastrado De Novo Usuário");
             Console.WriteLine($"");
-            this.Nome = "Gabriel";
-            this.Email = "gabriel";
-            this.Senha = "123";
-            //this.DataCadastroUsuario = DateTime.Now;
+            Console.WriteLine($"Código de usuário: ");
+            this.Codigo = int.Parse(Console.ReadLine());
 
-            /*Console.WriteLine($"Código: ");
-            Codigo = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Nome: ");
-            Nome = Console.ReadLine();
+            Console.WriteLine($"Qual o nome do usuario?: ");
+            this.Nome = Console.ReadLine();
             Console.WriteLine($"Email: ");
-            Email = Console.ReadLine();
+            this.Email = Console.ReadLine();
             Console.WriteLine($"Senha: ");
-            Senha = Console.ReadLine();
+            this.Senha = Console.ReadLine();
+
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"");
-            Console.WriteLine($"Cadastro concluído.");*/
-        }
-        public void Deletar()
-        {
-            this.Nome = "";
-            this.Email = "";
-            this.Senha = "";
-            //para zerar o datetime é utilizado esta mascara 
-            this.DataCadastroUsuario = DateTime.Parse("0000-00-00T00:00:00");
+            Console.WriteLine(@$"
+            Cadastrado com sucesso!
+
+            Nome: {Nome}
+            Email: {Email}
+
+            Data de Cadastro: {DataCadastroUsuario}
+            ");
+            Console.ResetColor();
 
         }
 

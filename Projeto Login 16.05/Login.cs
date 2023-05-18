@@ -3,8 +3,8 @@ namespace Projeto_Login_16._05
     public class Login
     {
         public bool Logado { get; set; }
-        // public string Usuario { get; set;}
-        // public string Senha { get; set;}
+        public string Usuario { get; set; }
+        public string Senha { get; set; }
 
         //aqui é para encaixar todos os métodos e chamar apenas o método Login na program.
         public Login(bool logado)
@@ -20,6 +20,8 @@ namespace Projeto_Login_16._05
 
         public void Logar(Usuario usuario)
         {
+            do
+            {
             Console.WriteLine($"Email: ");
             string Email = Console.ReadLine();
 
@@ -29,26 +31,28 @@ namespace Projeto_Login_16._05
             if (Email == usuario.Email && Senha == usuario.Senha)
             {
                 this.Logado = true;
-                Console.WriteLine($"Login Efetuado");
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine(@$"
+                
+                Login Efetuado");
+                Console.ResetColor();
             }
 
             else
             {
                 this.Logado = false;
-                Console.WriteLine($"Usuário ou Senha incorreta!");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(@$"
+                Email ou Senha incorreto!
+                Tente novamente.");
+                Console.ResetColor();
             }
+            } while (Logado == false);
         }
         public string Deslogar()
         {
-            return "";
+            return "Saindo do sistema...";
         }
-        public void login()
-        {
-
-        }
-
-
-
 
         public void GerarMenu()
         {
@@ -68,6 +72,8 @@ namespace Projeto_Login_16._05
             4- Cadastrar Marca
             5- Listar Marca
             6- Remover Marca
+
+            0- Sair/Deslogar
             ");
                 opcao = Console.ReadLine();
 
@@ -80,12 +86,8 @@ namespace Projeto_Login_16._05
                         produto.ListarProduto();
                         break;
                     case "3":
-                        Console.WriteLine($"Informe o codigo para ser removido: ");
-                        int codigoProduto = int.Parse(Console.ReadLine());
-
-                        // produto.DeletarProduto(codigoProduto);
+                        produto.DeletarProduto();
                         break;
-
 
                     case "4":
                         marca.CadastrarMarca();
@@ -97,12 +99,14 @@ namespace Projeto_Login_16._05
                         marca.DeletarMarca();
                         break;
                     case "0":
-                        Console.WriteLine($"Saindo...");
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine($"Aplicativo encerrado!");
+                        Console.ResetColor();
 
                         break;
                     default:
-                        Console.WriteLine($"tente novamente:");
-
+                        Console.WriteLine($"");
+                        Console.WriteLine($"Tente Novamente: ");
                         break;
                 }
             } while (opcao != "0");
