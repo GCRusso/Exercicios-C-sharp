@@ -14,11 +14,12 @@ namespace Projeto_Login_16._05
         {
 
         }
-        public Produto(int _codigoProduto, string _nomeProduto, float _preco)
+        public Produto(int _codigoProduto, string _nomeProduto, float _preco, Marca _marquinha)
         {
             Codigo = _codigoProduto;
             Nome = _nomeProduto;
             Preco = _preco;
+            marquinha = _marquinha;
         }
         public void CadastrarProduto()
         {
@@ -48,15 +49,12 @@ namespace Projeto_Login_16._05
             Console.ResetColor();
 
             //Adicionando produto na lista de produtos
-            listaDeProdutos.Add(new Produto(CodigoProduto, NomeProduto, PrecoProduto));
+            listaDeProdutos.Add(new Produto(CodigoProduto, NomeProduto, PrecoProduto, marquinha));
 
         }
 
         public void ListarProduto()
         {
-            Marca IdentificadorMarca = new Marca();
-            Usuario usuariocadastro = new Usuario();
-
             foreach (var item in listaDeProdutos)
             {
                 Console.WriteLine(@$"
@@ -65,7 +63,6 @@ namespace Projeto_Login_16._05
     Preço: {item.Preco}
     Marca: {item.marquinha.Nome}
 
-    Cadastrado Por:
     Data: {DataProduto}");
             }
         }

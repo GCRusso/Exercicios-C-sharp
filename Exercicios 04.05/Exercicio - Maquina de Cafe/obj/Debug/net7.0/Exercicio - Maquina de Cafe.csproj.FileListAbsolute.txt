@@ -13,3 +13,18 @@ C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Maquina
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.pdb
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.genruntimeconfig.cache
 C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\ref\Exercicio - Maquina de Cafe.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\bin\Debug\net7.0\Exercicio - Maquina de Cafe.exe
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\bin\Debug\net7.0\Exercicio - Maquina de Cafe.deps.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\bin\Debug\net7.0\Exercicio - Maquina de Cafe.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\bin\Debug\net7.0\Exercicio - Maquina de Cafe.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\bin\Debug\net7.0\Exercicio - Maquina de Cafe.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\refint\Exercicio - Maquina de Cafe.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\Exercicio - Maquina de Cafe.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicios 04.05\Exercicio - Maquina de Cafe\obj\Debug\net7.0\ref\Exercicio - Maquina de Cafe.dll

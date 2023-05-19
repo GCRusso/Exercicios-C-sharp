@@ -14,7 +14,9 @@ namespace Projeto_Login_16._05
 
             if (Logado == true)
             {
+                Console.ForegroundColor = ConsoleColor.Blue;
                 GerarMenu();
+                Console.ResetColor();
             }
         }
 
@@ -22,36 +24,38 @@ namespace Projeto_Login_16._05
         {
             do
             {
-            Console.WriteLine($"Email: ");
-            string Email = Console.ReadLine();
+                Console.WriteLine($"Email: ");
+                string Email = Console.ReadLine();
 
-            Console.WriteLine($"Senha: ");
-            string Senha = Console.ReadLine();
+                Console.WriteLine($"Senha: ");
+                string Senha = Console.ReadLine();
 
-            if (Email == usuario.Email && Senha == usuario.Senha)
-            {
-                this.Logado = true;
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine(@$"
+                if (Email == usuario.Email && Senha == usuario.Senha)
+                {
+                    this.Logado = true;
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine(@$"
                 
                 Login Efetuado");
-                Console.ResetColor();
-            }
+                    Console.ResetColor();
+                }
 
-            else
-            {
-                this.Logado = false;
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(@$"
+                else
+                {
+                    this.Logado = false;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine(@$"
                 Email ou Senha incorreto!
                 Tente novamente.");
-                Console.ResetColor();
-            }
+                    Console.ResetColor();
+                }
             } while (Logado == false);
         }
         public string Deslogar()
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             return "Saindo do sistema...";
+            Console.ResetColor();
         }
 
         public void GerarMenu()
@@ -88,7 +92,6 @@ namespace Projeto_Login_16._05
                     case "3":
                         produto.DeletarProduto();
                         break;
-
                     case "4":
                         marca.CadastrarMarca();
                         break;
@@ -102,11 +105,12 @@ namespace Projeto_Login_16._05
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine($"Aplicativo encerrado!");
                         Console.ResetColor();
-
                         break;
                     default:
+                        Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine($"");
                         Console.WriteLine($"Tente Novamente: ");
+                        Console.ResetColor();
                         break;
                 }
             } while (opcao != "0");

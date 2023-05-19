@@ -6,7 +6,7 @@ namespace Projeto_Login_16._05
         public string Nome { get; private set; }
         public DateTime DataMarca { get; private set; } = DateTime.Now;
 
-        List<Marca> listaDeMarcas = new List<Marca>();
+        public static List<Marca> listaDeMarcas = new List<Marca>();
         public Marca()
         {
 
@@ -27,16 +27,17 @@ namespace Projeto_Login_16._05
             string nomeMarca = Console.ReadLine();
             marca.Nome = nomeMarca;
             marca.Codigo = codigoMarca;
+            marca.DataMarca = DateTime.Now;
 
 
-            listaDeMarcas.Add(new Marca(codigoMarca, nomeMarca, DataMarca));
+            listaDeMarcas.Add(marca);
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(@$"
             Marca Cadastrada com sucesso
 
-            Código: {codigoMarca} 
-            Nome: {nomeMarca} 
-            Data: {DataMarca}
+            Código: {marca.Codigo} 
+            Nome: {marca.Nome} 
+            Data: {marca.DataMarca}
             
             --------------------------------------------------------
             ");

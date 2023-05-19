@@ -8,10 +8,11 @@ namespace Projeto_Login_16._05
         public string Senha { get; private set; }
         public DateTime DataCadastroUsuario { get; private set; } = DateTime.Now;
 
-        
         public Usuario()
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
             Cadastrar();
+            Console.ResetColor();
         }
         public void Cadastrar()
         {
