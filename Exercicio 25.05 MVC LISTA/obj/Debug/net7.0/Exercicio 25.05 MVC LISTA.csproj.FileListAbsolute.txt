@@ -1,0 +1,5 @@
+C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.csproj.CoreCompileInputs.cache
