@@ -3,3 +3,18 @@ C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercici
 C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.AssemblyInfoInputs.cache
 C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.AssemblyInfo.cs
 C:\Users\23655858841\Desktop\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.csproj.AssemblyReference.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.AssemblyInfoInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.AssemblyInfo.cs
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.csproj.CoreCompileInputs.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\bin\Debug\net7.0\Exercicio 25.05 MVC LISTA.exe
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\bin\Debug\net7.0\Exercicio 25.05 MVC LISTA.deps.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\bin\Debug\net7.0\Exercicio 25.05 MVC LISTA.runtimeconfig.json
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\bin\Debug\net7.0\Exercicio 25.05 MVC LISTA.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\bin\Debug\net7.0\Exercicio 25.05 MVC LISTA.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\refint\Exercicio 25.05 MVC LISTA.dll
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.pdb
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\Exercicio 25.05 MVC LISTA.genruntimeconfig.cache
+C:\Users\23655858841\Desktop\Exercicios C Sharp\Exercicio 25.05 MVC LISTA\obj\Debug\net7.0\ref\Exercicio 25.05 MVC LISTA.dll
